@@ -5,6 +5,9 @@
 # This must be a simple API.
 
 def analize():
+    """
+    def 
+    """
     # TODO:
     # - Implement the Process initializer.
     # - Implement the DataManager.
